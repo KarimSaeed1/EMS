@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>About</class>
+ <widget class="QDialog" name="About">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>665</width>
+    <height>744</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>10</y>
+     <width>256</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#000000;&quot;&gt;English Memorize System&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>80</y>
+     <width>661</width>
+     <height>651</height>
+    </rect>
+   </property>
+   <property name="lineWrapColumnOrWidth">
+    <number>0</number>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MuseoSans-700','sans-serif'; font-size:14pt; color:#080602; background-color:#ffffff;&quot;&gt;Benifits of app&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt;Memorize English words in the best way from images and in English&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt;Save every word in single screenShot photo&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt;Provide the best websites to get expressive images&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt;Provide the best websites to listen to any word in many native sentences&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt;Ability to add many words and then save it&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt;Ability to add description in English to word if the photo not enough to understand it&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; color:#001121;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;span style=&quot; font-family:'MuseoSans-700','sans-serif'; font-size:14pt; color:#080602; background-color:#ffffff;&quot;&gt;Property Rights &lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt; This is a new creative idea i think in it and belong to only me&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt; I was create and code all thing in-app with myself without any outside help or with another person&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; color:#001121;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;span style=&quot; font-family:'MuseoSans-700','sans-serif'; font-size:14pt; color:#080602; background-color:#ffffff;&quot;&gt;Developer Info &lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; text-decoration: underline; color:#00162b;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration:none; color:#001121;&quot;&gt; Name : karim saeed elrashidy &lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'MuseoSans-300','sans-serif'; font-size:8pt; color:#001121;&quot; style=&quot; margin-top:20px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:28.9px;&quot;&gt;&lt;a href=&quot;https://coschedule.com/blog/write-about-us-page-template-examples#why&quot;&gt;&lt;span style=&quot; font-size:17px; text-decoration: underline; color:#007af4;&quot;&gt;Email : karimsaeed816@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
